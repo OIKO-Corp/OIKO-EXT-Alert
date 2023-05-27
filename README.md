@@ -1,4 +1,4 @@
-# EXT-Alert - Extented for `MMM-GoogleAssistant`
+# EXT-Alert (OIKO-Version) - Extented for `MMM-GoogleAssistant`
 
 EXT-Alert is a plugin for `MMM-GoogleAssistant`
 
